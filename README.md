@@ -10,14 +10,15 @@
 ## Campaign
   1. Create Campaign
    ![Post](https://github.com/user-attachments/assets/da9d3769-f573-4000-922c-97442728c892)
-
   2. Get all Campaign
    ![Screenshot 2024-11-26 203307](https://github.com/user-attachments/assets/0c8724cf-8c4d-47ef-bfd4-5c9550c20c1e)
-  3. Udate Campaign
+  3. Fatch all Campaign with pagination
+   ![image](https://github.com/user-attachments/assets/7b442206-795f-42a4-80bd-d9a19d0c926b)
+  4. Udate Campaign
    ![Screenshot 2024-11-26 204634](https://github.com/user-attachments/assets/5f78cd4c-359e-4154-b742-454c823588d8)
-  4. Delete Campaign
+  5. Delete Campaign
    ![Screenshot 2024-11-26 204732](https://github.com/user-attachments/assets/ebf93baf-13a0-45b6-8c8d-ac287d64b461)
-  5. Campaign DB Table
+  6. Campaign DB Table
    ![Screenshot 2024-11-26 221938](https://github.com/user-attachments/assets/b33dfa40-0caa-46af-880c-243b41d38561)
 ## Campaign Result
   1. Create Campaign
@@ -27,7 +28,9 @@
 ## Agent
   1. Create Agent
    ![Screenshot 2024-11-26 223148](https://github.com/user-attachments/assets/b4da67a3-4d9c-48aa-becc-6690a8352942)
-  2. Agent DB Table
+  2. Fatch Agent with pagination
+   ![image](https://github.com/user-attachments/assets/00f97913-fbd7-40a5-aac5-5456db4b5309)
+  4. Agent DB Table
    ![Screenshot 2024-11-26 223235](https://github.com/user-attachments/assets/acd96518-cc53-49df-a01a-3b7514307f56)
 
 ## Built With : 
