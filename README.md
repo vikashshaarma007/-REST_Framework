@@ -50,7 +50,6 @@ Built With :
   Spring Boot DevTools
   Spring Data Jpa
   PostgreSQL Driver
-  
   Spring Web
   Spring Web Services
   ```
@@ -70,6 +69,7 @@ Built With :
   ```
 ## Installation 
     _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
+    ```sh
    1. Create Database -> RestFramework_DB
    2. Open project in preferred IDE (I used SpringToolsSuite4)
    3. Run the project as a Spring Boot app.
@@ -77,6 +77,7 @@ Built With :
    5. Add sample data to the table using Postgresql pgadmin tools
    6. Ren web browser at localhost: 8080/
    7. Add,Get, Update, Delete records from the web app
+   ```
 
 
 
