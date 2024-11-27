@@ -2,7 +2,7 @@
 
 <p align="center"><i>A Spring MVC web application for Rest Framework with the following CRUD operations in single platform</i></p>
 <br>
-<p align="center"><i>Looking forward to working with youVoizer.ai!</i> 👨🏽‍💻 </p>
+<p align="center"><i>Looking forward to working with you Voizer.ai!</i> 👨🏽‍💻 </p>
 <br>
 
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻
@@ -68,7 +68,7 @@ Built With :
   Run the main method in DemoApplication.java to start the app.
   https://start.spring.io/
   ```
-### Installation 
+## Installation 
     _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
    1. Create Database -> RestFramework_DB
    2. Open project in preferred IDE (I used SpringToolsSuite4)
