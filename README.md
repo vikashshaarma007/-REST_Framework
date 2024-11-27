@@ -10,7 +10,7 @@
 ## Campaign
   1. Create Campaign
    ![Post](https://github.com/user-attachments/assets/da9d3769-f573-4000-922c-97442728c892)
-  2. Get all Campaign
+  2. Fatch all Campaign
    ![Screenshot 2024-11-26 203307](https://github.com/user-attachments/assets/0c8724cf-8c4d-47ef-bfd4-5c9550c20c1e)
   3. Fatch all Campaign with pagination
    ![image](https://github.com/user-attachments/assets/7b442206-795f-42a4-80bd-d9a19d0c926b)
@@ -82,7 +82,7 @@
     4. Hibernate will automatically create a table -> Campaign, CampaignResult, Agent
     5. Add sample data to the table using Postgresql pgadmin tools
     6. Ren web browser at localhost: 8080/
-    7. Add,Get, Update, Delete records from the web app
+    7. Add, Fatch, Update, Delete records from the web app
    ```
 
 
