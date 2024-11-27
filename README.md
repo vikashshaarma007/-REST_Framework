@@ -30,18 +30,21 @@
   2. Agent DB Table
    ![Screenshot 2024-11-26 223235](https://github.com/user-attachments/assets/acd96518-cc53-49df-a01a-3b7514307f56)
 
-Built With : 
+## Built With : 
+
  # Technology Stack:
- * Java 17
- * Spring Boot
- * HTML
- * Bootstrap
- * Spring MVC
- * Spring Data JPA
- * Hibernate
- * Maven
- * PostgreSQL Database
- * Spring-Boot-Devtools
+ ```sh
+    * Java 17
+    * Spring Boot
+    * HTML
+    * Bootstrap
+    * Spring MVC
+    * Spring Data JPA
+    * Hibernate
+    * Maven
+    * PostgreSQL Database
+    * Spring-Boot-Devtools
+```
 
 * dependencies
   ```sh
@@ -70,13 +73,13 @@ Built With :
 ## Installation 
     _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
     ```sh
-   1. Create Database -> RestFramework_DB
-   2. Open project in preferred IDE (I used SpringToolsSuite4)
-   3. Run the project as a Spring Boot app.
-   4. Hibernate will automatically create a table -> Campaign, CampaignResult, Agent
-   5. Add sample data to the table using Postgresql pgadmin tools
-   6. Ren web browser at localhost: 8080/
-   7. Add,Get, Update, Delete records from the web app
+    1. Create Database -> RestFramework_DB
+    2. Open project in preferred IDE (I used SpringToolsSuite4)
+    3. Run the project as a Spring Boot app.
+    4. Hibernate will automatically create a table -> Campaign, CampaignResult, Agent
+    5. Add sample data to the table using Postgresql pgadmin tools
+    6. Ren web browser at localhost: 8080/
+    7. Add,Get, Update, Delete records from the web app
    ```
 
 
