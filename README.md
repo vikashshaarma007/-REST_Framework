@@ -71,8 +71,8 @@
   https://start.spring.io/
   ```
 ## Installation 
+  ```sh
     _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
-    ```sh
     1. Create Database -> RestFramework_DB
     2. Open project in preferred IDE (I used SpringToolsSuite4)
     3. Run the project as a Spring Boot app.
