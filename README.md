@@ -8,7 +8,7 @@
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻
   <br>
 
-  To create APIs that allow users to create, update, delete, and fetch all agents and campaigns with pagination, here's a complete implementation in Spring Boot.
+  To create APIs that allow users to create, update, delete, and fetch all agents and campaigns with pagination in Spring Boot.
   
 ## Campaign
   1. Create Campaign
