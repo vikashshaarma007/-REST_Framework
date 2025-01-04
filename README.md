@@ -62,9 +62,14 @@
   Spring Web
   Spring Web Services
   ```
-* to run the project
+  ## Prerequisites
   ```sh
-  intellij/eclipse
+   1. Ensure the following tools are installed on your machine:
+   2. Java Development Kit (JDK) (preferably JDK 11 or higher).
+   3. Maven or Gradle (based on your project's build tool).
+   4. Git for cloning the repository.
+   5. IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+
   ```
 * to build the project for production
   ```sh
@@ -77,15 +82,22 @@
   https://start.spring.io/
   ```
 ## Installation 
-  ```sh
-    _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
-    1. Create Database -> RestFramework_DB
-    2. Open project in preferred IDE (I used SpringToolsSuite4)
+   Follow these simple steps to get the server up and running 👾🧮🚀✅.
+  1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```ll
+   ```sh
+    Run the Project
+    1. Create Database -> RestFramework_DB in pgadmin 4
+    2. Open project in preferred IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
     3. Run the project as a Spring Boot app.
-    4. Hibernate will automatically create a table -> Campaign, CampaignResult, Agent
-    5. Add sample data to the table using Postgresql pgadmin tools
-    6. Ren web browser at localhost: 8080/
-    7. Add, Fatch, Update, Delete records from the web app
+    4. Locate the class annotated with @SpringBootApplication.
+    5. Right-click and select "Run" or "Debug".
+    6. Hibernate will automatically create a table -> Campaign, CampaignResult, Agent
+    7. Add sample data to the table using Postgresql pgadmin tools
+    8. Ren web browser at localhost: 8080/
+    9. Add, Fatch, Update, Delete records from the web app
    ```
 
 
