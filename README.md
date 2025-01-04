@@ -84,11 +84,12 @@
 ## Installation 
    Follow these simple steps to get the server up and running 👾🧮🚀✅.
   1. Clone the repo
+     
+     ```sh
+      git clone https://github.com/your_username_/Project-Name.git
+     ```
+  2. Run the Project
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```ll
-   ```sh
-    Run the Project
     1. Create Database -> RestFramework_DB in pgadmin 4
     2. Open project in preferred IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
     3. Run the project as a Spring Boot app.
