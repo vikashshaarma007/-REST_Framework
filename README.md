@@ -62,6 +62,12 @@
   Spring Web
   Spring Web Services
   ```
+  <!-- GETTING STARTED -->
+## Getting Started
+
+ Instructions to set up the project locally.
+ To get a local copy up and running follow these simple example steps.
+
   ## Prerequisites
   ```sh
    1. Ensure the following tools are installed on your machine:
