@@ -1,6 +1,6 @@
 <h1 align="center">Rest Framework 🧮🚀</h1>
 
-<p align="center"><i>A Spring MVC web application for Rest Framework with the following CRUD operations in single platform</i></p>
+<p align="left"><i>A Spring Boot-based MVC RESTful web application that supports complete CRUD operations for managing Campaigns and Agents. The app follows REST architecture principles and provides paginated results for scalable API responses.</i></p>
 <br>
 <p align="center"><i>Looking forward to working with you Voizer.ai!</i> 👨🏽‍💻 </p>
 <br>
